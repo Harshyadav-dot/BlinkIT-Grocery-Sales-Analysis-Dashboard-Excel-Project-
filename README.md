@@ -158,16 +158,6 @@ Through this project, I learned how to:
 
 ---
 
-## 👨‍💻 Project Type
-
-**Academic / Practical Data Analysis Project**
-
-This project demonstrates practical Excel and data analysis skills using a BlinkIT grocery sales dataset.
-
----
-
-
-
 Skills demonstrated:
 - Microsoft Excel
 - Data Analysis
