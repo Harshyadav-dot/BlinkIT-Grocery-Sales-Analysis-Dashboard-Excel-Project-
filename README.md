@@ -138,7 +138,7 @@ Interactive filters are provided for:
 
 The dashboard provides a visual overview of the grocery sales data and allows users to filter the analysis based on different outlet and item characteristics.
 
-Add your dashboard screenshot here:
+
 
 ![BlinkIT Dashboard](dashboard.png)
 
